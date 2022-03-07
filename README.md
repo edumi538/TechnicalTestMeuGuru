@@ -1,2 +1,2 @@
-# Test Tecnico Front End - Vaga MeuGuru - Eduardo Miranda de Oliveira
+# TechnicalTestMeuGuru
 Created with CodeSandbox

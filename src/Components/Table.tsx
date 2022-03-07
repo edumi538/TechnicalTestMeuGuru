@@ -38,7 +38,7 @@ export default function DataTable() {
     { field: "Name", headerName: "Name", width: 250, headerAlign: "center" },
     {
       field: "Initial",
-      headerName: "Inicial",
+      headerName: "Initial",
       width: 350,
       align: "center",
       headerAlign: "center"
